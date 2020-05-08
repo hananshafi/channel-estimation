@@ -6,3 +6,5 @@ Python code for estimating Channel parameter in Cognitive Radio using Least Squa
 In this code, we have mathematically modeled Sender, Receiver and the channel connecting the sender and receiver. Sample inputs from sender are sent to receiever. The H parameter is added to the input signals while travelling through the channel.
 
 ## Working Mechanism
+
+![Working](https://github.com/hananshafi/channel-estimation/blob/master/cognitive.JPG)
